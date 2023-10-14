@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Meharsh and I'm a Graphics Designer, from Nagpur</h1>
+<h2 align="left">Hi 👋! My name is Meharsh and I'm a Graphics Designer, from Nagpur</h2>
 
 ###
 
