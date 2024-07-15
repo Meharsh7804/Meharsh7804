@@ -24,8 +24,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Meharsh7804/Meharsh7804/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
