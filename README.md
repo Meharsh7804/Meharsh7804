@@ -1,4 +1,4 @@
-<img src="./Linkedin Banner.jpg">
+<img src="./BusinessCard .png">
 
 # 💫 About Me:
 🔭 I’m currently working on SAARTHI<br>🤝 I’m looking to collaborate on Web Development<br>🤲 I’m looking for help with DSA<br>🌱 I’m currently learning Gen AI<br>💬 Ask me about Animations and Designing<br>⚡ Fun fact: I can code for hours without realizing how much time has passed!
